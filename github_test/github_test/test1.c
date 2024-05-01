@@ -2,7 +2,8 @@
 
 int main()
 {
-	printf("Hello World!");
+	printf("Hello World!\n");
+	printf("Tech University of Korea\n");
 
 	return 0;
 }
